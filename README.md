@@ -1,4 +1,4 @@
-I am currently preparing to apply to mathematics courses at master's degree level.
+I am currently preparing to apply to master's degree courses in mathematics.
 
 My research interests are in the mathematical foundations of computer science and physics, e.g. quantum computation and categorical quantum mechanics. I am also interested in the applications of machine learning and natural language understanding to automated theorem proving.
 
