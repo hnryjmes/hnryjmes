@@ -1,1 +1,1 @@
-I am an engineering manager with a professional background in software engineering and data engineering.
+I am a lead software engineer with 6+ years technical experience in agile delivery teams. 
